@@ -33,6 +33,9 @@ Optimizing aviation data management and eCommerce platforms with AI, ML, and dat
 ### Response Generation System for Customer Service
 Designed a Retrieval-Augmented Generation (RAG) system leveraging years of historical question-response data to assist analysts in handling customer queries. Implemented retrieval mechanisms and generative models using NLP techniques to deliver precise, context-aware responses. The solution enhanced query resolution efficiency and consistency.
 
+### UNSPSC Classification using AI (Recent Work)
+Built an AI-powered UNSPSC classification workflow to automatically map product records to the correct taxonomy codes. Combined data preprocessing, feature engineering, and transformer-based text modeling to improve category prediction quality across noisy catalog descriptions. Added confidence scoring and human-in-the-loop review for edge cases, reducing manual effort while improving consistency and classification accuracy.
+
 ### eCommerce Recommendation System
 Developed a personalized recommendation engine that analyzes user behavior and product attributes to suggest relevant items. Implemented collaborative filtering and content-based approaches to improve shopping experience and conversion rates.
 
